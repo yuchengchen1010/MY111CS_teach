@@ -39,6 +39,8 @@
 
 
 ## Github基礎使用
+### 安裝vscode
+https://code.visualstudio.com/download
 ### 註冊
 https://medium.com/@chaowu.dev/%E5%89%9B%E5%AD%B8%E7%BF%92%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%86%E9%82%84%E6%B2%92%E6%9C%89%E4%B8%80%E7%B5%84%E8%87%AA%E5%B7%B1%E7%9A%84-github-%E5%B8%B3%E8%99%9F%E5%97%8E-e05c16113411
 ### 建立一個repository
@@ -50,11 +52,10 @@ https://medium.com/@chaowu.dev/%E5%89%9B%E5%AD%B8%E7%BF%92%E7%A8%8B%E5%BC%8F%E8%
 https://markdown.tw/
 https://github.com/cycyucheng1010/NQU/tree/main/Make%20Presentations%20with%20Markdown%20in%20VSCode
 https://github.com/cycyucheng1010/NQU/blob/main/Mermaid_cahrt/draw_chart.md
-## python結合演算法
+## python簡單應用
+https://www.runoob.com/python/python-tutorial.html
 ### print helloworld
 ### 簡單語法
-### 泡沫排序法
-### 河內塔
 ### 費式數列
 ### 階層
 ### import
